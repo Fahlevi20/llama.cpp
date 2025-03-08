@@ -1,3 +1,3 @@
-docstring_parser~=0.15
+docstring_parser~=0.16
 pydantic~=2.6.3
 requests
