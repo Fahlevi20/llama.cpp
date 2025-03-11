@@ -24,7 +24,7 @@ gguf = { path = "./gguf-py" }
 torch = { version = "^2.6.0+cpu", source = "pytorch" }
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+pytest = "^8.3"
 
 
 # Force wheel + cpu
