@@ -3,6 +3,6 @@ pytest~=8.3.3
 huggingface_hub~=0.23.2
 numpy~=1.26.4
 openai~=1.65.4
-prometheus-client~=0.20.0
+prometheus-client~=0.21.1
 requests~=2.32.3
 wget~=3.2
